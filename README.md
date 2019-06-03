@@ -23,5 +23,5 @@ To train, run the `learning.py` from the `/src` directory.
 
 To plot the results of training, run `plot.py`
 
-To test the training, run `play.py`
+To test training, run `play.py`
 
